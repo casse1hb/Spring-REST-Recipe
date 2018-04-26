@@ -1,4 +1,4 @@
-group 'com.myrecipes'
+group 'com.teamtreehouse'
 version '1.0-SNAPSHOT'
 
 buildscript {
